@@ -59,13 +59,4 @@ This project was completed as part of my internship at **CodeAsire**.
 
 ---
 
-## 🔗 Future Improvements
-
-- Edit notes functionality
-- Search and filter notes
-- Better UI with animations
-- Dark mode support
-
----
-
 ⭐ Feel free to explore and share your feedback!
